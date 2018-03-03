@@ -220,8 +220,8 @@
     "relativePath": "prefab\\webview.prefab"
   },
   "0857d5e1-e5b1-48e2-80d6-5059f694276a": {
-    "asset": 1476929564000,
-    "meta": 1520069694743,
+    "asset": 1520080708271,
+    "meta": 1520080936130,
     "relativePath": "audio"
   },
   "dc194f1a-c8a5-46ca-aaf9-f03b70974af5": {
@@ -240,8 +240,8 @@
     "relativePath": "mikado_outline_shadow.fnt"
   },
   "d6ff10bc-4d58-4d63-8af4-19151a90da2c": {
-    "asset": 1476929564000,
-    "meta": 1520069694743,
+    "asset": 1520080708287,
+    "meta": 1520080936130,
     "relativePath": "textures"
   },
   "f3779477-7dbf-4751-902f-985973720152": {
@@ -280,8 +280,8 @@
     "relativePath": "Scenes\\Game.fire"
   },
   "0fc016cf-f0ea-4e18-87e8-34c57266371b": {
-    "asset": 1520070279967,
-    "meta": 1520070279970,
+    "asset": 1520080708271,
+    "meta": 1520080936130,
     "relativePath": "Scripts"
   },
   "85a814d2-5c11-4433-9406-09ef2b054f8f": {
@@ -290,8 +290,13 @@
     "relativePath": "Scripts\\Player.js"
   },
   "8fb77e59-081a-4eb3-beb5-35b452a93711": {
-    "asset": 1520080194977,
-    "meta": 1520080194981,
+    "asset": 1520080708271,
+    "meta": 1520080936130,
     "relativePath": "Scenes"
+  },
+  "50a0c869-db01-4f94-8e10-c5d06976e34c": {
+    "asset": 1520080959468,
+    "meta": 1520080968728,
+    "relativePath": "Scenes\\Starting Screen.fire"
   }
 }
